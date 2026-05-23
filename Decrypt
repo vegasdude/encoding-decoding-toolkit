@@ -1,0 +1,1 @@
+python cli.py decode -i secret.txt -o plain.txt -m aes --password mypass
