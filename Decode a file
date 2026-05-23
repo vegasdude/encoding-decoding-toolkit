@@ -1,0 +1,1 @@
+python cli.py decode -i encoded.txt -o decoded.txt -m base64 --meta metadata.json --verify
