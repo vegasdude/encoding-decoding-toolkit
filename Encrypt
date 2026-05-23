@@ -1,0 +1,1 @@
+python cli.py encode -i sample_input.txt -o secret.txt -m aes --password mypass --meta secret.json
